@@ -3,11 +3,11 @@ import { Button } from "@/components/ui/button"
 
 export function Hero() {
   return (
-    <section className="min-h-screen flex items-center justify-center px-6 py-20">
+    <section id="hero" className="min-h-screen flex items-center justify-center px-6 py-20 pt-16">
       <div className="max-w-4xl w-full">
         <div className="space-y-8">
           <div className="space-y-4">
-            <h1 className="text-5xl md:text-7xl font-bold tracking-tight text-balance">Full-Stack Developer</h1>
+            <h1 className="text-5xl md:text-7xl font-bold tracking-tight text-balance">Hi, I&apos;m Jay</h1>
             <p className="text-xl md:text-2xl text-muted-foreground max-w-2xl text-pretty leading-relaxed">
               I craft elegant, performant web applications with modern technologies. Specializing in React, Next.js,
               Node.js, and TypeScript.

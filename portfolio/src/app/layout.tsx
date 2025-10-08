@@ -6,7 +6,7 @@ import { Analytics } from "@vercel/analytics/next"
 import { Suspense } from "react"
 import "./globals.css"
 import { ThemeProvider } from "@/components/theme-provider"
-import { ThemeToggle } from "@/components/theme-toggle"
+import { Navbar } from "@/components/navbar"
 
 export const metadata: Metadata = {
   title: "Full-Stack Developer Portfolio",
@@ -23,7 +23,7 @@ export default function RootLayout({
     <html lang="en" className="scroll-smooth dark">
       <body className={`font-sans ${GeistSans.variable} ${GeistMono.variable} antialiased`}>
         <ThemeProvider defaultTheme="dark">
-          <ThemeToggle />
+          <Navbar />
           <Suspense fallback={null}>{children}</Suspense>
           <Analytics />
         </ThemeProvider>
