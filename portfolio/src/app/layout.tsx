@@ -9,7 +9,7 @@ import { ThemeProvider } from "@/components/theme-provider"
 import { Navbar } from "@/components/navbar"
 
 export const metadata: Metadata = {
-  title: "Full-Stack Developer Portfolio",
+  title: "Han Jay | Portfolio",
   description: "Portfolio of a full-stack web developer specializing in React, Next.js, and Node.js",
   generator: "v0.app",
 }
