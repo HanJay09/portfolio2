@@ -1,165 +1,179 @@
-# About Me
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=iss4cf0ng&color=blue)
-![Works on my machine](https://img.shields.io/badge/works_on-my_machine-green)
-![Powered by Coffee](https://img.shields.io/badge/powered_by-coffee-brown)
-![Bug Creator](https://img.shields.io/badge/bugs-created%20daily-red)
-![Magic](https://img.shields.io/badge/it-works%20somehow-blueviolet)
-![Debugging](https://img.shields.io/badge/debugging-why%20is%20it%20working-yellow)
-![Production](https://img.shields.io/badge/pushed_to-production%20on%20Friday-red)
+<h1 align="center">Hi 👋, I'm Han Jay</h1>
 
 <p align="center">
-  <img src="https://github.com/j0shbl0ck/j0shbl0ck/blob/main/Add-ons/FSN.gif?raw=true" width=400/>
-</p>
-
-<!--
-  <img src="https://iss4cf0ng.github.io/images/default-cover.png" width=200>
-  <img src="https://iss4cf0ng.github.io/images/meme/rio_crying.jpg" width=165>
-  <img src="https://iss4cf0ng.github.io/images/meme/natsu_cake.jpg" width=167>
--->
-
-
-<p align="center">
-  <img src="https://helio-github-stats.vercel.app/api/top-langs?username=iss4cf0ng&layout=compact&stats_format=percentages&theme=dark&hide_border=false&border_radius=10&card_width=700&locale=en&custom_title=Top%20Languages&hide=HTML,CSS,Javascript,php,classic+asp,asp.net,shell,makefile,yara,roff&langs_count=10" alt="Top Languages" loading="lazy" />
+  <img src="https://github.com/j0shbl0ck/j0shbl0ck/blob/main/Add-ons/FSN.gif?raw=true" width="700"/>
 </p>
 
 <p align="center">
-  <table align="center">
-    <tr>
-      <td>
-        <a href="https://nice-readme.vercel.app/github-stats">
-          <img src="https://helio-github-stats.vercel.app/api?username=iss4cf0ng&custom_title=GitHub+Stats&theme=radical&title_color=35e1ed&text_color=34d5a5&icon_color=f250ec&ring_color=cf35ed&border_color=e4e2e2&hide_border=false&locale=en&border_radius=10&card_width=400&show_icons=true&count_private=true" alt="GitHub Stats" loading="lazy" />
-        </a>
-      </td>
-      <td>
-        <!--
-        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=iss4cf0ng&theme=tokyonight" alt="GitHub Streak" /></a>
-        -->
-        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=iss4cf0ng&theme=github-dark-blue" alt="GitHub Streak" /></a>
-      </td>
-    </tr>
-  </table>
+  <b>Master's Student in Advanced Computer Science @ Queen Mary University of London</b>
 </p>
 
-## <script>alert(/This is not executable...is it?/);</script>
-
-## Human Languages
-
-
-- English
-- Spanish (Estudio español. ¡Mucho gusto!)
-- Japanese (私は勉強します。はじめまして。)
-- Korean (저는 한국어를 공부해요. 만나서 반갑습니다.)
-
-## Programming Languages & Tech
-
-
-- Web development
-- C / C++ / C#
-- Windows API & Kernel C++
-- Reverse Engineering, Shellcode, Low-level stuff
-
-## Cybersecurity Focus
-
-
-- Industrial Security (PLC/Modbus)
-- Reverse Engineering
-- Shellcode Development
-- Anonymity & Evasion
-- Active Directory Attacks
-- Tool Development (RATs, Loaders, C2)
-
-<h2 align="left">Try These Projects!</h2>
-
-- [OpenPetya](https://github.com/iss4cf0ng/OpenPetya) - Bootkit, re-implementation of Petya/NotPetya
-- [Alien](https://github.com/iss4cf0ng/Alien) - Webshell framework
-- [DuplexSpy](https://github.com/iss4cf0ng/DuplexSpyCS) - Remote Access Tool (Windows, C# payload)
-- [Eden-RAT](https://github.com/iss4cf0ng/Eden-RAT) - RAT for Linux (Python payload)
-- [NebulaPulsar](https://github.com/iss4cf0ng/NebulaPulsar) - Webshell implant
-
-<h2 align="left">Actively Being Developed</h2>
-
-<details>
-
-**Ongoing Public Repos**
-  
-- [EgoDrop](https://github.com/iss4cf0ng/EgoDrop) - RAT for Linux (C/C++ payload)
-- [pyWinDoor](https://github.com/iss4cf0ng/pyWinDoor) - RAT for Windows (Python payload)
-- [LaserGunDDoS](https://github.com/iss4cf0ng/LaserGunDDoS) - Modular DDoS tool
-- [Miniluv](https://github.com/iss4cf0ng/Miniluv) - ARP spoofing & MITM tool
-- [WinPower](https://github.com/iss4cf0ng/WinPower) - RAT for Windows (PowerShell payload)
-- [StummSchneide](https://github.com/iss4cf0ng/StummSchneide) - Shellcode implant
-- [DustHarbor](https://github.com/iss4cf0ng/DustHarbor) - Shellcode RAT
-
-**Ongoing Private Repos**
-
-- GhootenTag - XSS attack tool
-- ThornGrid - Botnet DDoS/Stress tool
-
-**Coming Soon**
-  
-- Tuxnet - RAT for Unix-like systems
-- AngelDust - RAT for Windows (C/C++/Win32 payload)
-
-</details>
+<p align="center">
+  <i>Building things, breaking things, and figuring out why they work.</i>
+</p>
 
 ---
 
-<details>
-<summary>Tech Stack</summary>
+## 👨‍💻 About Me
 
-<h2 align="left">Languages - Application</h2>
+I'm **Han Jay**, currently pursuing a **Master's degree in Advanced Computer Science at Queen Mary University of London (QMUL)**.
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Rust](https://img.shields.io/badge/rust-FF8C00?style=for-the-badge&logo=rust&logoColor=white)
+I'm interested in a broad range of computer science and enjoy working across different areas of software development, from web technologies and programming to databases, cloud platforms, and machine learning.
 
-<h2 align="left">Language - Web</h2>
+I'm always experimenting with new technologies and looking for interesting things to build.
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+```text
+🎓 MSc Advanced Computer Science — Queen Mary University of London
+💻 Computer Science
+🌱 Always learning something new
+☕ Fueled by coffee and questionable debugging decisions
+🐛 "It works" is sometimes a valid testing strategy
+```
 
-<h2 align="left">Framework</h2>
+---
 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+## 🌍 Languages
 
-<h2 align="left">Database</h2>
+I speak four languages:
 
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+* 🇬🇧 **English**
+* 🇨🇳 **Mandarin Chinese**
+* 🇲🇾 **Bahasa Melayu**
+* 🇭🇰 **Cantonese** — understandable, but not quite fluent 😅
 
-<h2 align="left">Operating System</h2>
+---
 
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+## 🚀 Languages & Tools I Use
 
-<h2 align="left">IDE/Interpreter/Editor</h2>
+### 💻 Programming Languages
 
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42"/>
+</p>
 
-<h2 align="left">Browser</h2>
+### 🌐 Web Development
 
-![DuckDuckGo](https://img.shields.io/badge/duckduckgo-de5833?style=for-the-badge&logo=duckduckgo&logoColor=white)
-![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
-![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
-![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
-![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
-![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="42" height="42"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="42" height="42"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="42" height="42"/>
+</p>
 
-</details>
+### ⚙️ Backend & Frameworks
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="42" height="42"/>
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="42" height="42"/>
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="42" height="42"/>
+</p>
+
+### 🧠 Machine Learning & Data
+
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="42" height="42"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630630/icons/pandas/pandas-original.svg" alt="Pandas" width="42" height="42"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="42" height="42"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="42" height="42"/>
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="42" height="42"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Microsoft SQL Server" width="42" height="42"/>
+</p>
+
+### ☁️ Cloud & Infrastructure
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="42" height="42"/>
+  <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="AWS Amplify" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="42" height="42"/>
+</p>
+
+### 🧰 Other Tools
+
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="Puppeteer" width="42" height="42"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="42" height="42"/>
+</p>
+
+---
+
+## 📚 Currently Learning
+
+🎓 **Advanced Computer Science** at **Queen Mary University of London**
+
+Currently expanding my knowledge across different areas of computer science through my Master's studies, coursework, and personal projects.
+
+I'm particularly interested in taking what I learn academically and turning it into things I can actually build and experiment with.
+
+---
+
+## 🔭 What I'm Working On
+
+* 🎓 Master's coursework and projects
+* 💻 Personal software projects
+* 🧠 Exploring machine learning and data science
+* 🌐 Building web applications
+* ☁️ Learning more about cloud technologies
+* 🧪 Experimenting with new frameworks and tools
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=j0shbl0ck&show_icons=true&theme=dark&hide_border=true&border_radius=10" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0shbl0ck&layout=compact&theme=dark&hide_border=true&border_radius=10" height="180"/>
+</p>
+
+---
+
+## 🚀 Projects
+
+<p align="center">
+  More projects coming soon...
+</p>
+
+---
+
+## ☕ Random Facts
+
+```text
+> Start project
+> npm install
+> npm run dev
+
+✓ Works perfectly
+
+> Deploy to production
+
+✗ Why
+```
+
+---
+
+<p align="center">
+  <i>Thanks for stopping by! 👋</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=j0shbl0ck&color=blueviolet&style=flat-square"/>
+</p>
