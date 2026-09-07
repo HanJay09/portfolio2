@@ -207,6 +207,12 @@ The platform included:
 
 ## 📊 GitHub
 
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="540" height="auto" src="https://github-stats-extended.vercel.app/api?username=HanJay09&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Han's github stats" class="left" /></a> 
+</div>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="540" height="auto" src="https://github-stats-extended.vercel.app/api/top-langs/?username=HanJay09&layout=compact&theme=github_dark&hide_border=true" class="center" /></a>
+</div>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=HanJay09&theme=tokyonight&hide_border=true&border_radius=12" />
