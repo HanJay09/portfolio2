@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Han Jay</h1>
 
 <p align="center">
-  <img src="YOUR_ANIME_GIF_URL_HERE" width="850" alt="Anime Banner"/>
+  <img src="https://github.com/JoshuaThadi/Wall-E-Desk/raw/main/Pixel-Art/snow.gif" width="850" alt="Anime Banner"/>
 </p>
 
 <p align="center">
@@ -207,10 +207,6 @@ The platform included:
 
 ## 📊 GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HanJay09&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanJay09&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="180"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=HanJay09&theme=tokyonight&hide_border=true&border_radius=12" />
