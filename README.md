@@ -104,29 +104,6 @@ My latest project — a web application focused on identifying **dark patterns a
 
 ---
 
-## 💼 Experience
-
-### 📊 Data Engineer Intern — equalOne Sdn Bhd
-
-**Jan 2024 – Apr 2024**
-
-* Developed and optimized data workflows using **Alteryx**
-* Integrated data from multiple sources for analysis and reporting
-* Worked with the **Monday.com API** to extract and structure data
-* Performed sentiment analysis using Alteryx Intelligence Suite and external APIs
-* Worked with web scraping and social-media data
-
-### 💻 Software Engineer Intern — CTAPPS MSC Sdn Bhd
-
-**Oct 2022 – Dec 2022**
-
-* Contributed to frontend and backend development of an employee leave management portal
-* Worked with **PHP and Yii2**
-* Developed and managed the application's **MySQL database**
-* Used Visual Studio Code, Notepad++, and XAMPP
-
----
-
 ## 🧪 Other Projects
 
 ### 📈 Stock Price Prediction Using Deep Learning
@@ -190,7 +167,7 @@ The platform included:
 </p>
 
 <p align="center">
-  <i>English · Mandarin · Malay · Understandable Cantonese 😅</i>
+  <i>English · Mandarin · Malay </i>
 </p>
 
 ---
@@ -201,7 +178,7 @@ The platform included:
 * 📊 Alteryx Designer Core
 * ▲ Next.js Workshop
 * 🔐 ICTF Certification
-* ⛓️ Solana Hackfest Hackathon — Participant
+
 
 ---
 
@@ -224,6 +201,3 @@ The platform included:
   <i>Thanks for stopping by! 👋</i>
 </p>
 
-<p align="center">
-  <code>while(alive) { learn(); build(); repeat(); }</code>
-</p>
