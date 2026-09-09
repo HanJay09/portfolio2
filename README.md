@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <i>Software Engineering · Web Development · Data · Machine Learning</i>
+  <i>Software Engineering · Web Development · Data Engineering · Machine Learning</i>
 </p>
 
 <p align="center">
@@ -27,15 +27,6 @@ I'm **Han Jay**, a Software Engineering graduate currently pursuing an **MSc in 
 My background spans software development, web applications, data engineering, and machine learning. I enjoy building practical applications, experimenting with new technologies, and turning ideas into working projects.
 
 Previously, I've worked as both a **Data Engineer Intern** and **Software Engineer Intern**, gaining experience with data workflows, APIs, web development, databases, and application development.
-
-```text
-🎓 MSc Computer Science @ QMUL
-💻 Software Engineering
-📊 Data & Machine Learning
-🌐 Web Development
-🌱 Always learning
-☕ Powered by coffee
-```
 
 ---
 
@@ -171,14 +162,6 @@ The platform included:
 </p>
 
 ---
-
-## 🏆 Certifications & Activities
-
-* 🎓 Cisco CCNAv7
-* 📊 Alteryx Designer Core
-* ▲ Next.js Workshop
-* 🔐 ICTF Certification
-
 
 ---
 
