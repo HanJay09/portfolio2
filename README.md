@@ -30,30 +30,7 @@ Previously, I've worked as both a **Data Engineer Intern** and **Software Engine
 
 ---
 
-## 🚀 Featured Project
 
-### 🕵️ Dark Patterns Detector
-
-My latest project — a web application focused on identifying **dark patterns and deceptive design practices** in websites.
-
-<p align="center">
-  <a href="https://github.com/HanJay09/dark-patterns">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HanJay09&repo=dark-patterns&theme=tokyonight&hide_border=true&border_radius=12" alt="Dark Patterns Detector"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/HanJay09/dark-patterns">
-    <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://dark-patterns-detector.vercel.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Site-black?style=for-the-badge&logo=vercel"/>
-  </a>
-</p>
-
----
-
-## 🧠 What I Work With
 
 ### Languages
 
