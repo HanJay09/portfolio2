@@ -14,9 +14,9 @@ export function Contact() {
           </p>
           <div className="pt-4">
             <Button asChild size="lg">
-              <a href="mailto:hello@example.com" className="inline-flex items-center gap-2">
+              <a href="mailto:hanjay090903@gmail.com" className="inline-flex items-center gap-2">
                 <Mail className="w-5 h-5" />
-                hello@example.com
+                hanjay090903@gmail.com
               </a>
             </Button>
           </div>
