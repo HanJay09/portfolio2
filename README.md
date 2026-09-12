@@ -24,9 +24,7 @@
 
 I'm **Han Jay**, a Software Engineering graduate currently pursuing an **MSc in Computer Science at Queen Mary University of London**.
 
-My background spans software development, web applications, data engineering, and machine learning. I enjoy building practical applications, experimenting with new technologies, and turning ideas into working projects.
-
-Previously, I've worked as both a **Data Engineer Intern** and **Software Engineer Intern**, gaining experience with data workflows, APIs, web development, databases, and application development.
+My background includes software development, web applications, data engineering, and machine learning. I enjoy building practical applications, experimenting with new technologies, and turning ideas into working projects.
 
 ---
 
