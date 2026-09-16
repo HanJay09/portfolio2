@@ -100,25 +100,6 @@ The platform included:
 
 ---
 
-## 🎓 Education
-
-**Queen Mary University of London**
-
-`MSc Computer Science` · 2025 – Present
-
----
-
-**Asia Pacific University**
-
-`BSc (Hons) Software Engineering` · 2023 – 2025
-
----
-
-**Asia Pacific University**
-
-`Diploma in ICT — Software Engineering` · 2020 – 2022
-
----
 
 ## 🌍 Languages
 
