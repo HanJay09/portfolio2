@@ -119,8 +119,6 @@ The platform included:
 
 ---
 
----
-
 ## 📊 GitHub
 
 <div align="center">
