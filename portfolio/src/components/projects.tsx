@@ -7,7 +7,7 @@ const projects = [
     title: "ScraperPro - Web Scraping Platform for Competitive Pricing",
     description:
       "an advanced web scraping platform designed to extract data from e-commerce websites.",
-    tech: ["Next.js", "Stripe", "PostgreSQL", "Tailwind CSS"],
+    tech: ["Next.js", "TypeScript", "Express.js", "Tailwind CSS", "Supabase", "Scraping Bot API],
     link: "#",
     image: "/modern-ecommerce-dashboard.png",
   },
