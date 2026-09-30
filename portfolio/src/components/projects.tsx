@@ -12,9 +12,9 @@ const projects = [
     image: "/modern-ecommerce-dashboard.png",
   },
   {
-    title: "Task Management App",
+    title: "DarkDetect - Automated Dark Pattern Detection for Websites",
     description:
-      "Collaborative task management application with real-time updates, team workspaces, and advanced filtering.",
+      "A web-based tool that analyses websites for deceptive user-interface and user-experience techniques, commonly known as dark patterns.",
     tech: ["React", "Node.js", "Socket.io", "MongoDB"],
     link: "#",
     image: "/task-management-kanban.png",
