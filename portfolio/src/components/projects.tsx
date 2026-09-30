@@ -8,7 +8,7 @@ const projects = [
     description:
       "an advanced web scraping platform designed to extract data from e-commerce websites.",
     tech: ["Next.js", "TypeScript", "Express.js", "Tailwind CSS", "Supabase", "Scraping Bot API],
-    link: "#",
+    link: "https://scraperpro.vercel.app/",
     image: "/modern-ecommerce-dashboard.png",
   },
   {
