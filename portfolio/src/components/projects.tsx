@@ -4,9 +4,9 @@ import Image from "next/image"
 
 const projects = [
   {
-    title: "E-Commerce Platform",
+    title: "ScraperPro - Web Scraping Platform for Competitive Pricing",
     description:
-      "A full-featured e-commerce platform with real-time inventory management, payment processing, and admin dashboard.",
+      "an advanced web scraping platform designed to extract data from e-commerce websites.",
     tech: ["Next.js", "Stripe", "PostgreSQL", "Tailwind CSS"],
     link: "#",
     image: "/modern-ecommerce-dashboard.png",
