@@ -15,8 +15,8 @@ const projects = [
     title: "DarkDetect - Automated Dark Pattern Detection for Websites",
     description:
       "A web-based tool that analyses websites for deceptive user-interface and user-experience techniques, commonly known as dark patterns.",
-    tech: ["React", "Node.js", "Socket.io", "MongoDB"],
-    link: "#",
+    tech: ["React", "JavaScript", "BeautifulSoup", "Playwright", "Python", "FastAPI"],
+    link: "dark-patterns-detector.vercel.app/",
     image: "/task-management-kanban.png",
   },
   {
