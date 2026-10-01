@@ -20,7 +20,7 @@ const projects = [
     image: "/task-management-kanban.png",
   },
   {
-    title: "AI Content Generator",
+    title: "CarMine",
     description:
       "AI-powered content generation tool using OpenAI API with custom prompts and content optimization features.",
     tech: ["Next.js", "OpenAI", "TypeScript", "Vercel"],
@@ -28,7 +28,7 @@ const projects = [
     image: "/ai-content-generator-interface-modern.jpg",
   },
   {
-    title: "Analytics Dashboard",
+    title: "CryptoLends",
     description: "Real-time analytics dashboard with interactive charts, data visualization, and export capabilities.",
     tech: ["React", "D3.js", "Express", "Redis"],
     link: "#",
