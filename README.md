@@ -114,7 +114,7 @@ The platform included:
 </p>
 
 <p align="center">
-  <i>English · Mandarin · Malay </i>
+  <i>English · Mandarin · Malay · Cantonese </i>
 </p>
 
 ---
