@@ -106,15 +106,11 @@ The platform included:
 <p align="center">
   🇬🇧 <b>English</b>
   &nbsp;&nbsp;•&nbsp;&nbsp;
-  🇨🇳 <b>Mandarin Chinese</b>
+  🇨🇳 <b>Mandarin</b>
   &nbsp;&nbsp;•&nbsp;&nbsp;
   🇲🇾 <b>Bahasa Melayu</b>
   &nbsp;&nbsp;•&nbsp;&nbsp;
   🇭🇰 <b>Cantonese</b>
-</p>
-
-<p align="center">
-  <i>English · Mandarin · Malay · Cantonese </i>
 </p>
 
 ---
