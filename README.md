@@ -103,15 +103,11 @@ The platform included:
 
 ## 🌍 Languages
 
-<p align="center">
-  🇬🇧 <b>English</b>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  🇨🇳 <b>Mandarin</b>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  🇲🇾 <b>Bahasa Melayu</b>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  🇭🇰 <b>Cantonese</b>
-</p>
+* 🇬🇧 English 
+* 🇨🇳 Mandarin Chinese (我会说中文，很高兴认识你！)
+* 🇲🇾 Bahasa Melayu (Salam, selamat datang ke profil saya!)
+* 🇭🇰 Cantonese (Basic)
+
 
 ---
 
